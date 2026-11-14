@@ -21,7 +21,7 @@
 
 // ---------- CHANGE THESE ----------
 const char* API_URL = "http://iot-toni.northcentralus.cloudapp.azure.com";   // no trailing slash, e.g. http://iot-jbrown.northcentralus.cloudapp.azure.com
-const char* MQTT_NAME = "<name>";           // your Tutorial 9 name, lowercase letters and digits
+const char* MQTT_NAME = "toni";           // your Tutorial 9 name, lowercase letters and digits
 const int DHT_PIN = 15;                     // check diagram.json: the pin the DHT22's SDA goes to
 const int FAN_LED_PIN = 2;                  // check diagram.json: the pin the fan LED goes to
 // ----------------------------------
